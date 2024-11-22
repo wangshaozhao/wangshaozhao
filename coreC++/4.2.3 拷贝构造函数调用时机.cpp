@@ -2,7 +2,7 @@
 #include <string>
 void doWork(Person p);
 using namespace std;
-
+//13
 //拷贝构造函数调用时机
 
 //1、使用一个已经创建完毕的对象初始化另一个对象
